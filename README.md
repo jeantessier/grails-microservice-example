@@ -1,6 +1,6 @@
 # grails-microservice-example
 
-An InfoQ article was showing how to build a microservice in Java with Ratpack and [Spring Boot}(http://projects.spring.io/spring-boot/).
+An [InfoQ article](http://www.infoq.com/articles/Ratpack-and-Spring-Boot) was showing how to build a microservice in Java with [Ratpack](http://ratpack.io/) and [Spring Boot](http://projects.spring.io/spring-boot/).
 
 I was surprised at how much boilerplate there was. The Gradle project file, the entity file with all the Hibernate annotations, and the Main class with all the crazy, custom, manual routing.
 
